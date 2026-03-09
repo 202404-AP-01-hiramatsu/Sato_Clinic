@@ -1,6 +1,6 @@
 # 202601_Sato_Clinic
 URL:
-https://202404-ap-01-hiramatsu.github.io/Sato_Clinic/top.html
+[佐藤医院 | トップページ](https://202404-ap-01-hiramatsu.github.io/Sato_Clinic/top.html)
 
 ・佐藤医院 様　／　サイトリニューアルのご依頼
 　佐藤医院 様からサイトリニューアルのご依頼をお受けいたしました。
