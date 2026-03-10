@@ -25,4 +25,4 @@
 
 ＊詳細は下記リンクよりご覧いただけます。
 
-URL : [佐藤医院 | トップページ](https://202404-ap-01-hiramatsu.github.io/Sato_Clinic/top.html)
+[佐藤医院 | トップページ](https://202404-ap-01-hiramatsu.github.io/Sato_Clinic/top.html)
